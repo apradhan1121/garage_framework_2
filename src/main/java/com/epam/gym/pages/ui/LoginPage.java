@@ -1,4 +1,4 @@
-package com.epam.gym.pages;
+package com.epam.gym.pages.ui;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;

@@ -1,6 +1,6 @@
 package com.epam.gym.smoketest.stepdefinitions;
 
-import com.epam.gym.pages.*;
+import com.epam.gym.pages.ui.*;
 import com.epam.gym.utils.ConfigLoader;
 import com.epam.gym.browsers.SeleniumCommon;
 import io.cucumber.java.en.And;
@@ -10,7 +10,6 @@ import io.cucumber.java.en.When;
 import org.openqa.selenium.WebDriver;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.testng.Assert;
 
 import java.time.LocalDate;
 

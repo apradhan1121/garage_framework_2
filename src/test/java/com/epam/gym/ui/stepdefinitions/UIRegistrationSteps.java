@@ -1,6 +1,6 @@
 package com.epam.gym.ui.stepdefinitions;
 
-import com.epam.gym.pages.RegistrationPage;
+import com.epam.gym.pages.ui.RegistrationPage;
 import com.epam.gym.utils.ConfigLoader;
 import com.epam.gym.utils.ScreenshotUtil;
 import com.epam.gym.browsers.SeleniumCommon;

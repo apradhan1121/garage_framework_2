@@ -1,9 +1,9 @@
 package com.epam.gym.ui.stepdefinitions;
 
 import com.epam.gym.browsers.DriverSingleton;
-import com.epam.gym.pages.CoachesPage;
-import com.epam.gym.pages.LoginPage;
-import com.epam.gym.pages.CoachNavigation;
+import com.epam.gym.pages.ui.CoachesPage;
+import com.epam.gym.pages.ui.LoginPage;
+import com.epam.gym.pages.ui.CoachNavigation;
 import com.epam.gym.utils.ConfigLoader;
 import com.epam.gym.browsers.SeleniumCommon;
 import io.cucumber.java.en.And;

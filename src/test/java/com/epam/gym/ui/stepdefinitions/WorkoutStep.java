@@ -1,7 +1,7 @@
 package com.epam.gym.ui.stepdefinitions;
 
 import com.epam.gym.browsers.DriverSingleton;
-import com.epam.gym.pages.WorkoutStepPage;
+import com.epam.gym.pages.ui.WorkoutStepPage;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;

@@ -1,4 +1,4 @@
-package com.epam.gym.pages;
+package com.epam.gym.pages.ui;
 
 import com.epam.gym.utils.WaitHelper;
 import org.openqa.selenium.By;

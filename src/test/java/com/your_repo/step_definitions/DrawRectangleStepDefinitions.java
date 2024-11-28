@@ -1,5 +1,5 @@
 public class DrawRectangleStepDefinitions {
 
-    // Add step definitions here
+    // Step definitions for drawing a rectangle
 
 }
